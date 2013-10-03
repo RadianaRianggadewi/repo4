@@ -7,4 +7,4 @@ public class soal10{
 			System.out.println("number is less than 5"); //tidak akan menampilkan ini jika 11 kurang dari 5
 		}
 	}
-//perbandingan apakah 11 lebih b esar dari 5 atau lebih kecil dari 5
+//perbandingan apakah 11 lebih besar dari 5 atau lebih kecil dari 5
